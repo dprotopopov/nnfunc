@@ -193,7 +193,7 @@ with tf.Session() as session:
 
 ## Вот что получилось
 
-![График функции и апроксимации](https://raw.githubusercontent.com/dprotopopov/nnfunc/master/Figure_1.png "График функции и апроксимации")
+![График функции и аппроксимации](https://raw.githubusercontent.com/dprotopopov/nnfunc/master/Figure_1.png "График функции и аппроксимации")
 
 - Синий цвет - исходная функция
 - Красный цвет - аппроксимация функции
